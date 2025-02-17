@@ -1,5 +1,5 @@
 # Blogging-website
-<h2>Author</h2>-Govind Dagadu Gadekar
+<h2>Author-<b>Govind Dagadu Gadekar</b></h2>
  Here is the code of my Blogging website
 🚀 Welcome to Coding Guru – The Ultimate Blogging Platform for Developers! 🚀
 
