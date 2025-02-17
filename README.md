@@ -32,5 +32,6 @@
 🔹 Like & Share Buttons: Let users appreciate and share insightful blogs with their network.
 🔹 Newsletter Subscription: Keep users updated with the latest blogs and trends in programming.
 <br>
+\n
 <b>🔥 Check it out now and be a part of the Coding Guru community! 🔥</b>
  
